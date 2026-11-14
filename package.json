@@ -9,9 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.13.0",
+    "astronomy-engine": "^2.1.19",
     "next": "16.4.3",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "react-redux": "^9.3.0",
+    "redux-saga": "^1.5.1"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
